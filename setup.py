@@ -1,7 +1,5 @@
 from setuptools import setup, find_packages
 
-NAME = "MsIdentityPythonSamplesCommon"
-VERSION = "1.0.4402212019"
 
 setup(name='ms_identity_web',
       version='0.16.6',
